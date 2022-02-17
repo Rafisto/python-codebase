@@ -1,5 +1,5 @@
 # https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python
-# TODO: create the User class
+# DONE: create the User class
 # it must support rank, progress, and the inc_progress(rank) method
 
 class User:
